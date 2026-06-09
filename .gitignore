@@ -1,0 +1,14 @@
+@"
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+dataset/*.txt
+dataset/*.zip
+
+outputs/figures/*.png
+outputs/metrics/*.csv
+outputs/forecasts/*.csv
+"@ | Set-Content .gitignore
