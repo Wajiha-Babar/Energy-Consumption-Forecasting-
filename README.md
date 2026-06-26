@@ -529,7 +529,7 @@ Overall, this project combines time-series analysis, machine learning, model eva
 
 ## Author
 
-**Omkar**
+**Wajiha Babar**
 
 Project: Energy Consumption Time Series Forecasting  
 Domain: Time-Series Forecasting and Energy Analytics  
